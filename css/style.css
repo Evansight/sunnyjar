@@ -444,7 +444,7 @@ a:focus {
 }
 
 .ner__left {
-    background-image: url(../img/banner/banner_1.png);
+    background-image: url(../img/ner/ner_1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -523,7 +523,7 @@ a:focus {
 }
 
 .ner__right {
-    background-image: url(../img/banner/banner_2.png);
+    background-image: url(../img/ner/ner_2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
